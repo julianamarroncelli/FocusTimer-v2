@@ -1,4 +1,4 @@
-#  ⏰ Projeto Cronômetro - V2
+#  ⏰ Focus Timer - V2
 
 Projeto desenvolvido como aplicação do conteúdo aprendido no curso de programação da Rocketseat.
 
